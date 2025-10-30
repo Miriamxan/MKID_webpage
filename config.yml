@@ -1,3 +1,15 @@
 title: MKID Durham Group
-description: Research and development of MKID-based spectroscopy and instrumentation.
+description: Research and development of MKID-based spectroscopy and instrumentation at Durham University.
 theme: minima
+
+# Navigation bar links
+header_pages:
+  - index.md
+  - research.md
+  - people.md
+  - publications.md
+  - contact.md
+
+# Social / footer info
+author: MKID Durham Group
+email: mkidgroup@durham.ac.uk
