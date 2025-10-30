@@ -1,0 +1,18 @@
+---
+layout: default
+title: About
+---
+
+# About the MKID Durham Group
+
+The **Durham MKID Group** is developing detector and instrument technologies for time-domain astronomy.  
+Our research aims to demonstrate the capabilities of MKIDs for **energy-resolved spectroscopy** and **high time-resolution photometry**.
+
+### Current Projects
+- KIDSpec: A prototype MKID-based spectrograph concept.  
+- Detector testing and characterization.  
+- Optical design and software development for future MKID instruments.
+
+![Durham Observatory](mkid.jpg)
+
+[← Back to Home](index.md)
