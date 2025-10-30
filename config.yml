@@ -1,7 +1,8 @@
 title: "MKID Durham Group"
 author: "MKID Durham Group, Durham University"
 description: "Microwave Kinetic Inductance Detector research and instrumentation at Durham University."
-theme: minima
+theme: beautiful-jekyll
+
 
 navbar-links:
   Home: "index.md"
@@ -49,3 +50,4 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
